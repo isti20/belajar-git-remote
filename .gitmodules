@@ -1,3 +1,4 @@
 [submodule "script"]
 	path = script
 	url = https://github.com/istiq20/belajar-git-submodule.git
+	branch = release
